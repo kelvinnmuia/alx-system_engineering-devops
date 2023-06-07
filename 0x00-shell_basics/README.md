@@ -10,4 +10,6 @@
 
 6.5-listfilesdigitonly: displays current directory content including hiden files, with user and group IDs listed numerically.
 
-7.6-firstdirectory: creates a directory named my_first_directory in the /tmp/ directory. 
+7.6-firstdirectory: creates a directory named my_first_directory in the /tmp/ directory.
+
+8.7-movethatfile: move betty from /tmp/ to /tmp/my_first_directory 

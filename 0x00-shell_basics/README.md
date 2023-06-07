@@ -6,4 +6,6 @@
 
 4.3-listfiles: displays current directory content in long format
 
-5.4-listmorefiles: displays current directory content including hiden files 
+5.4-listmorefiles: displays current directory content including hiden files
+
+6.5-listfilesdigitonly: displays current directory content including hiden files, with user and group IDs listed numerically. 

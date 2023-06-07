@@ -23,3 +23,5 @@
 12.11-lists: lists the content of current working directory, parent of current working directory and /boot directory 
 
 13.12-file_type: displays the type of file
+
+14.13-symbolic_link: symbolic link to /bin/ls file

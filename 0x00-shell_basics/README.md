@@ -3,3 +3,5 @@
 2.1-listit: displays the content list of yor current working directory
 
 3.2-bring_me_home: changes the working directory to the user's home directory 
+
+4.3-listfiles: displays current directory content in long format

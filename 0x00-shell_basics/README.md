@@ -16,4 +16,6 @@
 
 9.8-firstdelete: delete /tmp/my_first_directory/betty
 
-10.9-firstdirdeletion: deletes /tmp/my_first_directory directory 
+10.9-firstdirdeletion: deletes /tmp/my_first_directory directory
+
+11.10-back: navigate to previous directory 

@@ -18,4 +18,6 @@
 
 10.9-firstdirdeletion: deletes /tmp/my_first_directory directory
 
-11.10-back: navigate to previous directory 
+11.10-back: navigate to previous directory
+
+12.11-lists: lists the content of current working directory, parent of current working directory and /boot directory 

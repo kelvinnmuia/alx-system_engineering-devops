@@ -21,3 +21,5 @@
 11.10-back: navigate to previous directory
 
 12.11-lists: lists the content of current working directory, parent of current working directory and /boot directory 
+
+13.12-file_type: displays the type of file

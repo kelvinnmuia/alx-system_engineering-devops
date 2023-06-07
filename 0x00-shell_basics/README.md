@@ -27,3 +27,5 @@
 14.13-symbolic_link: symbolic link to /bin/ls file
 
 15.14-copy_html: copies all the HTML files from the current working directory to the parent of the working directory, but only copy files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory.
+
+16.100-lets_move: moves all files beginning with an uppercase letter to the directory /tmp/u.

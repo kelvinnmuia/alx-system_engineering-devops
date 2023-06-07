@@ -8,4 +8,6 @@
 
 5.4-listmorefiles: displays current directory content including hiden files
 
-6.5-listfilesdigitonly: displays current directory content including hiden files, with user and group IDs listed numerically. 
+6.5-listfilesdigitonly: displays current directory content including hiden files, with user and group IDs listed numerically.
+
+7.6-firstdirectory: creates a directory named my_first_directory in the /tmp/ directory. 

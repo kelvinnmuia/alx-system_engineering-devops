@@ -12,4 +12,6 @@
 
 7.6-firstdirectory: creates a directory named my_first_directory in the /tmp/ directory.
 
-8.7-movethatfile: move betty from /tmp/ to /tmp/my_first_directory 
+8.7-movethatfile: move betty from /tmp/ to /tmp/my_first_directory
+
+9.8-firstdelete: delete /tmp/my_first_directory/betty 

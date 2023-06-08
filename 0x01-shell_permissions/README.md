@@ -16,3 +16,5 @@
 
 9.8-James_Bond:a script that sets 007 numerical permissions
 
+10.9-John_Doe:script that sets the mode of the file hello to -rwxr-x-wx
+

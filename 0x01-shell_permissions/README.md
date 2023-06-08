@@ -14,3 +14,5 @@
 
 8.7-everybody:adds execution permission to the owner, the group owner and the other users, to the file hello
 
+9.8-James_Bond:a script that sets 007 numerical permissions
+

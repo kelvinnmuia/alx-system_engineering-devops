@@ -25,3 +25,5 @@
 13.12-combinations: prints all possible combinations of two letters, except oo
 
 14.13-print_float: prints a number with two decimal places, followed by a new line
+
+15.100-decimal_to_hexadecimal: converts a number from base 10 to base 16

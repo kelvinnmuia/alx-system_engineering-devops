@@ -7,3 +7,5 @@
 4.3-paths: counts the number of directories in the PATH
 
 5.4-global_variables: lists environment variables.
+
+6.5-local_variables: lists all local variables and environment variables, and functions.

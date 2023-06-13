@@ -11,3 +11,5 @@
 6.5-local_variables: lists all local variables and environment variables, and functions.
 
 7.6-create_local_variable: creates a new local variable.
+
+8.7-create_global_variable: creates a new global variable

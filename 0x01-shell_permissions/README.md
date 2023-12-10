@@ -41,6 +41,10 @@ the group owner and the other users, to the file hello
 	* The file hello will be in the working directory
 	* Not allowed to use commas for the script
 
-**0. My name is Betty**
-  * [0-iam_betty](./0-iam_betty): Bash script that switches the current user to
-the user betty.
+**8. James Bond**
+  * [8-James_Bond](./8-James_Bond): Bash script that sets the permission to the file hello as follows:
+	* Owner: no permission at all
+	* Group: no permission at all
+	* Other users: all the permissions
+  * The file hello will be in the working directory 
+  * Not allowed to use commas for this script

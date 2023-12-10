@@ -65,10 +65,11 @@ the same as olleh’s mode.
   * **Note:** the mode of olleh will not always be 664. 
   * The script should work for any mode.
 
-**6. Multiple permissions**
-  * [6-multiple_permissions](./6-multiple_permissions): Bash script that adds execute
-permission to the owner and the group owner, and read permission to other users,
-to the file hello. In the working directory.
+**11. Directories**
+  * [11-directories_permissions](./11-directories_permissions): Bash script that adds execute permission to 
+all subdirectories of the current directory for the owner, the group owner and all other users.
+
+  * Regular files should not be changed.
 
 **6. Multiple permissions**
   * [6-multiple_permissions](./6-multiple_permissions): Bash script that adds execute

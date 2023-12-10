@@ -8,3 +8,4 @@ practiced working with other commands, such as `type`, `which`, `mkdir`, `rmdir`
 
 ## Project Tasks :page_with_curl:
 
+**0. Where am I?**

@@ -71,17 +71,31 @@ all subdirectories of the current directory for the owner, the group owner and a
 
   * Regular files should not be changed.
 
-**6. Multiple permissions**
-  * [6-multiple_permissions](./6-multiple_permissions): Bash script that adds execute
-permission to the owner and the group owner, and read permission to other users,
-to the file hello. In the working directory.
+**12. More directories**
+  * [12-directory_permissions](./12-directory_permissions): Bash script that creates a directory called 
+my_dir with permissions 751 in the working directory.
 
-**6. Multiple permissions**
-  * [6-multiple_permissions](./6-multiple_permissions): Bash script that adds execute
-permission to the owner and the group owner, and read permission to other users,
-to the file hello. In the working directory.
+**13. Change group**
+  * [13-change_group](./13-change_group): Bash script that changes the group owner to school for the file hello
 
-**6. Multiple permissions**
-  * [6-multiple_permissions](./6-multiple_permissions): Bash script that adds execute
-permission to the owner and the group owner, and read permission to other users,
-to the file hello. In the working directory.
+  * The file hello will be in the working directory
+
+**14. Owner and group**
+  * [100-change_owner_and_group](./100-change_owner_and_group): Bash script that changes the owner to vincent and 
+the group owner to staff for all the files and directories in the working directory.
+
+**15. Symbolic links**
+  * [101-symbolic_link_permissions](./101-symbolic_link_permissions): Bash script that the owner and the group owner 
+of `_hello` to `vincent` and `staff` respectively.
+
+  * The file `_hello` is in the working directory
+  * The file `_hello` is a symbolic link
+
+**16. If only**
+  * [102-if_only](./102-if_only): Bash scrip that changes the owner of the file hello to betty only if it is owned by 
+the user guillaume.
+
+  * The file hello will be in the working directory
+
+**17. Star Wars**
+  * [103-Star_Wars](./103-Star_Wars): Bash script that will play the StarWars IV episode in the terminal.

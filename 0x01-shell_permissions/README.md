@@ -56,10 +56,14 @@ the group owner and the other users, to the file hello
   * The file hello will be in the working directory
   * Not allowed to use commas for this script
 
-**6. Multiple permissions**
-  * [6-multiple_permissions](./6-multiple_permissions): Bash script that adds execute
-permission to the owner and the group owner, and read permission to other users,
-to the file hello. In the working directory.
+**10. Look in the mirror**
+  * [10-mirror_permissions](./10-mirror_permissions): Bash script that sets the mode of the file hello 
+the same as olleh’s mode.
+
+  * The file hello will be in the working directory
+  * The file olleh will be in the working directory
+  * **Note:** the mode of olleh will not always be 664. 
+  * The script should work for any mode.
 
 **6. Multiple permissions**
   * [6-multiple_permissions](./6-multiple_permissions): Bash script that adds execute

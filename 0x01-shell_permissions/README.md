@@ -48,3 +48,34 @@ the group owner and the other users, to the file hello
 	* Other users: all the permissions
   * The file hello will be in the working directory 
   * Not allowed to use commas for this script
+
+**9. John Doe**
+  * [9-John_Doe](./9-John_Doe): Bash script that sets the mode of the file hello to this:
+`-rwxr-x-wx 1 julien julien 23 Sep 20 14:25 hello`
+  * The file hello will be in the working directory
+  * Not allowed to use commas for this script
+
+**6. Multiple permissions**
+  * [6-multiple_permissions](./6-multiple_permissions): Bash script that adds execute
+permission to the owner and the group owner, and read permission to other users,
+to the file hello. In the working directory.
+
+**6. Multiple permissions**
+  * [6-multiple_permissions](./6-multiple_permissions): Bash script that adds execute
+permission to the owner and the group owner, and read permission to other users,
+to the file hello. In the working directory.
+
+**6. Multiple permissions**
+  * [6-multiple_permissions](./6-multiple_permissions): Bash script that adds execute
+permission to the owner and the group owner, and read permission to other users,
+to the file hello. In the working directory.
+
+**6. Multiple permissions**
+  * [6-multiple_permissions](./6-multiple_permissions): Bash script that adds execute
+permission to the owner and the group owner, and read permission to other users,
+to the file hello. In the working directory.
+
+**6. Multiple permissions**
+  * [6-multiple_permissions](./6-multiple_permissions): Bash script that adds execute
+permission to the owner and the group owner, and read permission to other users,
+to the file hello. In the working directory.

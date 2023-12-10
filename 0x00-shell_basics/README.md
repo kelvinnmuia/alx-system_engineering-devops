@@ -9,3 +9,6 @@ practiced working with other commands, such as `type`, `which`, `mkdir`, `rmdir`
 ## Project Tasks :page_with_curl:
 
 * **0. Where am I?**
+  * [0-current_working_directory](./0-current_working_directory): Bash script that 
+prints the absolute path name of the current working directory.
+

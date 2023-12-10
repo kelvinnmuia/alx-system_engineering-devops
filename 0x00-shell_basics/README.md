@@ -35,18 +35,17 @@ contents in long format, with user and group IDs displayed numerically, And hidd
   * [6-firstdirectory](./6-firstdirectory): Bash script that script that creates a directory 
 named my_first_directory in the /tmp/ directory.
 
-* **0. Where am I?**
-  * [0-current_working_directory](./0-current_working_directory): Bash script that
-prints the absolute path name of the current working directory.
+**7. Betty in my first directory**
+  * [7-movethatfile](./7-movethatfile): Bash script Move the file betty from /tmp/ to 
+/tmp/my_first_directory.
 
-* **0. Where am I?**
-  * [0-current_working_directory](./0-current_working_directory): Bash script that
-prints the absolute path name of the current working directory.
+**8. Bye bye Betty**
+  * [8-firstdelete](./8-firstdelete): Bash script that deletes the file betty 
+in /tmp/my_first_directory
 
-* **0. Where am I?**
-  * [0-current_working_directory](./0-current_working_directory): Bash script that
-prints the absolute path name of the current working directory.
+**9. Bye bye My first directory**
+  * [9-firstdirdeletion](./9-firstdirdeletion): Bash script that deletes the directory my_first_directory 
+that is in the /tmp directory.
 
-* **0. Where am I?**
-  * [0-current_working_directory](./0-current_working_directory): Bash script that
-prints the absolute path name of the current working directory.
+**10. Back to the future**
+  * [10-back](./10-back): Bash script that changes the working directory to the previous one.

@@ -68,8 +68,10 @@ named __ls__. in the current working directory.
 to the parent of the working directory, but only copy files that did not exist in the parent of the working directory 
 or were newer than the versions in the parent of the working directory.
 
-**10. Back to the future**
-  * [10-back](./10-back): Bash script that changes the working directory to the previous one.
+**15. Let’s move**
+  * [100-lets_move](./100-lets_move): Bash script that moves all files beginning with an uppercase letter to the 
+directory /tmp/u. Assuming that the directory /tmp/u will exist when we will run your script
 
-**10. Back to the future**
-  * [10-back](./10-back): Bash script that changes the working directory to the previous one.
+**16. Clean Emacs**
+  * [101-clean_emacs](./101-clean_emacs): Bash script that deletes all files in the current working directory that 
+end with the character ~.

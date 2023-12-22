@@ -1,4 +1,4 @@
-# Creates a file /tmp/school with certain permissions, content, owner/group
+# Creates a file /tmp/school with certain permissions, content, owner or group
 file { '/tmp/holberton':
   ensure  => file,
   mode    => '0744',

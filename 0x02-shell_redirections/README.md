@@ -1,53 +1,97 @@
-1.0-hello_world: prints “Hello, World”, followed by a new line to the standard output.
+# 0x02. Shell, I/O Redirections and filters
 
-2.1-confused_smiley: script that displays a confused smiley "(Ôo)'.
+In this project, I learned about shell commands for performing Input/Output Redirections 
+and filtering output. This commands include but not limited to: `head`, `tail`, `find`, 
+`wc`, `sort`, `uniq`, `grep` and `tr`
 
-3.2-hellofile: Display the content of the /etc/passwd file.
+## Project Tasks :page_with_curl:
 
-4.3-twofiles: Display the content of /etc/passwd and /etc/hosts
+**0. Hello World**
+  * [0-hello_world](./0-hello_world): Bash script that prints “Hello, World”, followed by 
+a new line to the standard output.
 
-5.4-lastlines: Display the last 10 lines of /etc/passwd
+**1. Confused smiley**
+  * [1-confused_smiley](./1-confused_smiley): Bash script that displays a confused smiley "(Ôo)'.
 
-6.5-firstlines: Display the first 10 lines of /etc/passwd
+**2. Let's display a file**
+  * [2-hellofile](./2-hellofile): Bash script that displays the content of the /etc/passwd file.
 
-7.6-third_line: displays the third line of the file iacta
+**3. What about 2?**
+  * [3-twofiles](./3-twofiles): Bash script that displays the content of /etc/passwd and /etc/hosts
 
-8.7-file: creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line
+**4. Last lines of a file**
+  * [4-lastlines](./4-lastlines): Bash script that displays the last 10 lines of /etc/passwd
 
-9.8-cwd_state: writes into the file ls_cwd_content the result of the command ls -la
+**5. I'd prefer the first ones actually**
+  * [5-firstlines](./5-firstlines): Bash script that displays the first 10 lines of /etc/passwd
 
-10.9-duplicate_last_line: duplicates the last line of the file iacta
+**6. Line #2**
+  * [6-third_line](./6-third_line): Bash script that displays the third line of the file iacta.
 
-11.10-no_more_js: deletes all the regular files (not the directories) with a .js extension that are present in the current directory and all its subfolders.
+  * The file iacta will be in the working directory
+  * Not allowed to use sed
 
-12.11-directories: counts the number of directories and sub-directories in the current directory
+**7. It is a good file that cuts iron without making a noise mandatory**
+  * [7-file](./7-file): Bash script that creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) 
+containing the text Best School ending by a new line.
 
-13.12-newest_files: displays the 10 newest files in the current directory
+**8. Save current state of directory mandatory**
+  * [8-cwd_state](./8-cwd_state): Bash script that writes into the file ls_cwd_content the result of the command 
+ls -la. If the file ls_cwd_content already exists, it should be overwritten. If the file ls_cwd_content does not 
+exist, create it.
 
-14.13-unique: takes a list of words as input and prints only words that appear exactly once
+**9. Duplicate last line**
+  * [9-duplicate_last_line](./9-duplicate_last_line): Bash script that duplicates the last line of the file iacta
 
-15.14-findthatword:  Display lines containing the pattern “root” from the file /etc/passwd
+  * The file iacta will be in the working directory
 
-16.15-countthatword: Display the number of lines that contain the pattern “bin” in the file /etc/passwd
+**10. No more javascript**
+  * [10-no_more_js](./10-no_more_js): Bash script that deletes all the regular files (not the directories) with a 
+.js extension that are present in the current directory and all its subfolders.
 
-17.16-whatsnext: Display lines containing the pattern “root” and 3 lines after them in the file /etc/passwd.
+**11. Don't just count your directories, make your directories count**
+  * [11-directories](./11-directories): Bash script that  counts the number of directories and sub-directories in 
+the current directory.
 
-18.17-hidethisword: Display all the lines in the file /etc/passwd that do not contain the pattern “bin”
+  * The current and parent directories should not be taken into account
+  * Hidden directories should be counted
 
-19.18-letteronly: Display all lines of the file /etc/ssh/sshd_config starting with a letter.
+**12. What’s new**
+  * [12-newest_files](./12-newest_files): Bash script that displays the 10 newest files in the current directory.
 
-20.19-AZ: Replace all characters A and c from input to Z and e respectively.
+  **Requirements:**
 
-21.20-hiago: Create a script that removes all letters c and C from input
+	* One file per line
+	* Sorted from the newest to the oldest
 
-22.21-reverse: Write a script that reverse its input
+**13. Being unique is better than being perfect**
+  * [13-unique](./13-unique): Bash script that takes a list of words as input and prints only words that appear 
+exactly once.
 
-23.22-users_and_homes: Write a script that displays all users and their home directories, sorted by users.
+  * Input format: One line, one word
+  * Output format: One line, one word
+  * Words should be sorted
 
-24.100-empty_casks: finds all empty files and directories in the current directory and all sub-directories.
+**14. It must be in that file**
+  * [14-findthatword](./14-findthatword): Bash script that displays lines containing the pattern “root” from the 
+file /etc/passwd
 
-25.101-gifs: lists all the files with a .gif extension in the current directory and all its sub-directories
+**15. Count that word**
+  * [15-countthatword](./15-countthatword): Bash script that displays the number of lines that contain the pattern 
+“bin” in the file /etc/passwd
 
-26.102-acrostic: decodes acrostics that use the first letter of each line
+**16. What's next?**
+  * [16-whatsnext](./16-whatsnext): Bash script that displays lines containing the pattern “root” and 3 lines after 
+them in the file /etc/passwd.
 
-27.103-the_biggest_fan: parses web servers logs in TSV format as input and displays the 11 hosts or IP addresses which did the most requests.
+**17. I hate bins mandatory**
+  * [17-hidethisword](./17-hidethisword): Bash script that displays all the lines in the file /etc/passwd that do not 
+contain the pattern “bin”.
+
+**15. Count that word**
+  * [15-countthatword](./15-countthatword): Bash script that displays the number of lines that contain the pattern 
+“bin” in the file /etc/passwd
+
+**15. Count that word**
+  * [15-countthatword](./15-countthatword): Bash script that displays the number of lines that contain the pattern 
+“bin” in the file /etc/passwd

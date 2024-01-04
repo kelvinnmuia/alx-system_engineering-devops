@@ -71,7 +71,7 @@ configuration in your answer file.
 
 Requirements:
 
-* Your SSH client configuration must be configured to use the private key ~/.ssh/school
+* Your SSH client configuration must be configured to use the private key `~/.ssh/school`
 * Your SSH client configuration must be configured to refuse to authenticate using a password
 
 Example:

@@ -1,5 +1,16 @@
-# Changes configuration file to turn off password authent. and use private key
-file { '/etc/ssh/ssh_config':
-  content => 'PasswordAuthentication no
-  IdentityFile ~/.ssh/holberton',
+# Sets up the ssh client config file with puppet
+include stdlib
+
+file_line { 'Turn off passwd auth':
+  ensure => present,
+  path   => '/etc/ssh/ssh_config',
+  line   => '    PasswordAuthentication no',
+  replace => true,
+}
+
+file_line { 'Delare identity file':
+  ensure => present,
+  path   => '/etc/ssh/ssh_config',
+  line   => '     IdentityFile ~/.ssh/school',
+  replace => true,
 }

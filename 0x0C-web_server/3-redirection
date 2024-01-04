@@ -1,11 +1,11 @@
 #!/usr/bin/env bash
-# Configures an Nginx server so that /redirect_me redirects to another page.
+# Configuring the Nginx server so that /redirect_me redirects to another page.
 # The redirection is configured as a "301 Moved Permanently"
 
 apt-get update
 apt-get install -y nginx
 
-mkdir /etc/nginx/html
+mkdir -p /etc/nginx/html
 touch /etc/nginx/html/index.html
 echo "Hello World!" > /etc/nginx/html/index.html
 printf %s "server {
@@ -15,7 +15,7 @@ printf %s "server {
     index  index.html index.htm;
 
     location /redirect_me {
-        return 301 http://cuberule.com/;
+        return 301 http://mycodingzone.com/;
     }
 }" > /etc/nginx/sites-available/default
 

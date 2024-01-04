@@ -51,6 +51,7 @@ That is one way of publishing your website pages to your server.
   * [0-transfer_file](./0-transfer_file): Bash script that transfers a file from the client to the web server.
 
 **1. Install nginx web server**
+
 Web servers are the piece of software generating and serving HTML pages, let’s install one!
 
 Requirements:

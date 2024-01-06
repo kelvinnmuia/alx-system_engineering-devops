@@ -1,5 +1,5 @@
 # 0x0B. SSH
-### The Domains/Concepts covered in this project
+## The Domains/Concepts covered in this project: `DevOps` `SSH` `Network` `SysAdmin` `Security`
 
 The project introduced me into two important concepts, `ssh` and `ssh-keygen`. I learned 
 how to generate ssh keys and connect to remote servers with ssh, as well as creating bash 

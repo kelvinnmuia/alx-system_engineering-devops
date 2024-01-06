@@ -1,9 +1,11 @@
 # 0x0C. Web server
+## The Domains/Concepts covered in this project: `DevOps` `SysAdmin`
 
-The project introduced me into nginx web server. I learned 
+The project introduced me into nginx web server, how web and DNS servers work. I learned 
 how to install, configure and work with nginx web server, as well as creating bash 
 and puppet scripts that automate the installation, configuration, and publishing of 
-webpages on the nginx web server.
+webpages on the nginx web server. Finally I also learned to configure DNS records such as 
+`A` `CNAME` `TXT` `MX` and working with `scp` and `curl` commands.
 
 ## Tasks :page_with_curl:
 
@@ -235,3 +237,9 @@ to respect above requirements
 
   * [7-puppet_install_nginx_web_server.pp](./7-puppet_install_nginx_web_server.pp): Puppet script that automatically 
 installs and configures nginx server
+
+## Quizes and Evaluations
+[0x0C. Web server_quizes](https://drive.google.com/file/d/1fuZgUT4_YOFV26U8Uh_WH4eFWYG4CFqy/view?usp=drive_link)
+
+## Additional Project Resources
+[

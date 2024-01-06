@@ -238,8 +238,18 @@ to respect above requirements
   * [7-puppet_install_nginx_web_server.pp](./7-puppet_install_nginx_web_server.pp): Puppet script that automatically 
 installs and configures nginx server
 
-## Quizes and Evaluations
-[0x0C. Web server_quizes](https://drive.google.com/file/d/1fuZgUT4_YOFV26U8Uh_WH4eFWYG4CFqy/view?usp=drive_link)
+## 0x0C. Web server Quizes
+* [0x0C. Web server_quizes](https://drive.google.com/file/d/1fuZgUT4_YOFV26U8Uh_WH4eFWYG4CFqy/view?usp=drive_link)
 
 ## Additional Project Resources
-[
+* [How the web works](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works)
+* [Nginx](https://en.wikipedia.org/wiki/Nginx)
+* [How to Configure Nginx](https://www.digitalocean.com/community/tutorials/how-to-set-up-nginx-server-blocks-virtual-hosts-on-ubuntu-16-04)
+* [Child process concept page](https://www.gnu.org/software/libc/manual/html_node/Processes.html#Processes)
+* [Root and sub domain](https://landingi.com/help/domains-vs-subdomains/)
+* [HTTP requests](https://www.tutorialspoint.com/http/http_methods.htm)
+* [HTTP redirection](https://moz.com/learn/seo/redirection)
+* [Not found HTTP response code](https://en.wikipedia.org/wiki/HTTP_404)
+* [Logs files on Linux](https://www.cyberciti.biz/faq/ubuntu-linux-gnome-system-log-viewer/)
+* [RFC 7231 (HTTP/1.1)](https://datatracker.ietf.org/doc/html/rfc7231)
+* [RFC 7540 (HTTP/2)](https://datatracker.ietf.org/doc/html/rfc7540)

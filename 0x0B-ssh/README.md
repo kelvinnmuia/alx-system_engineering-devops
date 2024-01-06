@@ -1,4 +1,5 @@
 # 0x0B. SSH
+### The Domains/Concepts covered in this project
 
 The project introduced me into two important concepts, `ssh` and `ssh-keygen`. I learned 
 how to generate ssh keys and connect to remote servers with ssh, as well as creating bash 

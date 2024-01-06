@@ -157,3 +157,6 @@ Notice: Finished catalog run in 0.03 seconds
 vagrant@ubuntu:~$
 ```
 * [100-puppet_ssh_config.pp](./100-puppet_ssh_config.pp): Puppet script for automating the configuration of `ssh` and `ssh-keygen`
+
+## Additional Project Resources
+[What is a (physical) server - text](https://en.wikipedia.org/wiki/Server_%28computing%29#Hardware_requirement)

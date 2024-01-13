@@ -1,7 +1,7 @@
 # 0x0D. Web stack debugging #0
 ## The Domains/Concepts covered in this project: `DevOps` `SysAdmin` `Scripting` `Debugging`
 
-The project introduced me into debugging broken or bugged webstacks. I Learned create bash 
+The project introduced me into debugging broken or bugged webstacks. I Learned to create bash 
 scripts that once executed, brings back the webstack to a working state. 
 
 Let’s start with a very simple example. My server must:

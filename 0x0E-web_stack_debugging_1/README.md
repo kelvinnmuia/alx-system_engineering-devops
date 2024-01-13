@@ -1,7 +1,8 @@
 # 0x0E. Web stack debugging #1
 ## The Domains/Concepts covered in this project: `DevOps` `SysAdmin` `Scripting` `Debugging`
 
-The project introduced me into nginx web server, how web and DNS servers work
+The project introduced me into debugging broken or bugged webstacks. I Learned to create bash scripts 
+that once executed, brings back the webstack to a working state.
 
 ## Tasks :page_with_curl:
 

@@ -46,6 +46,8 @@ cp /etc/passwd /tmp/
 echo OK > /tmp/isworking
 sylvain@ubuntu:~$
 ```
+## Tasks :page_with_curl:
+
 **0. Give me a page!**
 
 Be sure to read the *Docker* concept page
@@ -82,3 +84,10 @@ you used to fix the issue in your answer file.
 
   * [0-give_me_a_page](./0-give_me_a_page): Bash Script that fixes a docker container to return a 
 webpage and an error message.
+
+## Additional Project Resources
+* [Docker](https://docs.google.com/document/d/1JCu501t3-HIXVPhAK3eDEYRFMNkUd-jbYNNBEvO6FpE/edit?usp=sharing)
+* [What is a protocol](https://www.techtarget.com/searchnetworking/definition/protocol)
+* [What is an IP address](https://computer.howstuffworks.com/internet/basics/what-is-an-ip-address.htm)
+* [What is TCP/IP](https://www.avast.com/c-what-is-tcp-ip#)
+* [What is an Internet Protocol (IP) port?](https://www.lifewire.com/port-numbers-on-computer-networks-817939)

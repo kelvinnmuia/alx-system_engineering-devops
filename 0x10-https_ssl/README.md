@@ -1,7 +1,7 @@
 # 0x10. HTTPS SSL
 ## The Domains/Concepts covered in this project: `DevOps` `SysAdmin` `Security`
 
-The project introduced me to the following concepts `HTTPS` `SSL/TLS`. I learned to generate 
+The project introduced me to the following concepts `HTTPS` `SSL/TLS`, `AWK`, `DIG`. I learned to generate 
 SSL/TLS certificates for encrypting traffic between the  http client and server. 
 Configuring HAProxy SSL termination.
 
@@ -148,3 +148,11 @@ sylvain@ubuntu$
 ```
 
   * [100-redirect_http_to_https](./100-redirect_http_to_https): HAProxy config file that redirects http traffic to https
+
+## Additional Project Resources
+* [DNS](https://docs.google.com/document/d/1a1uTd3rDYYrvs1U8fBeCAKs-l8rfpR-FmYy3nnGkOM4/edit?usp=sharing)
+* [What is HTTPS?](https://www.instantssl.com/http-vs-https)
+* [What are the 2 main elements that SSL is providing](https://www.sslshopper.com/why-ssl-the-purpose-of-using-ssl-certificates.html)
+* [HAProxy SSL termination on Ubuntu16.04](https://docs.ionos.com/cloud/)
+* [SSL termination](https://en.wikipedia.org/wiki/TLS_termination_proxy)
+* [Bash function](https://tldp.org/LDP/abs/html/complexfunct.html)

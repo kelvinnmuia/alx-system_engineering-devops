@@ -47,10 +47,11 @@ echo OK > /tmp/isworking
 sylvain@ubuntu:~$
 ```
 **0. Give me a page!**
-Be sure to read the Docker concept page
+
+Be sure to read the *Docker* concept page
 
 In this first debugging project, you will need to get Apache to run on the container and 
-to return a page containing Hello Holberton when querying the root of it.
+to return a page containing `Hello Holberton` when querying the root of it.
 
 Example:
 
@@ -79,4 +80,5 @@ After connecting to the container and fixing whatever needed to be fixed (here i
 you can see that curling port 80 return a page that contains Hello Holberton. Paste the command(s) 
 you used to fix the issue in your answer file.
 
-  * [0-give_me_a_page](./0-give_me_a_page): Bash Script that returns a page and an error message.
+  * [0-give_me_a_page](./0-give_me_a_page): Bash Script that fixes a docker container to return a 
+webpage and an error message.

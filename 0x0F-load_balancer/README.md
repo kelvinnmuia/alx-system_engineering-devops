@@ -96,7 +96,7 @@ Just as in task #0, we’d like you to automate the task of creating a custom HT
 requirements asked in this task
 
   * [2-puppet_custom_http_response_header.pp](./2-puppet_custom_http_response_header.pp): puppet script for configuring 
-the webservers with a custom http response header.
+the webservers with a customized http response header.
 
 ## Additional Project Resources
 * [Load balancer](https://docs.google.com/document/d/1W0lUL7-pP2Ti7PrLZYssOYPhZIwAtbFNKLJx4NylXH8/edit?usp=sharing)

@@ -131,6 +131,9 @@ or you’re working on firewall rules… Another tool to add to your debugging t
   * [100-port_listening_on_localhost](./100-port_listening_on_localhost): Bash script for configuring localhost to 
 listen to port 98.
 
+## 0x08. Networking basics #1 Quizes
+* [0x08. Networking basics #1](https://drive.google.com/file/d/194eixCxWuvfGShRpAeeU1dCn71m_iHS-/view?usp=drive_link)
+
 ## Additional Project Resources
 * [What is localhost](https://en.wikipedia.org/wiki/Localhost)
 * [What is 0.0.0.0](https://en.wikipedia.org/wiki/0.0.0.0)

@@ -3,7 +3,7 @@
 
 The project introduced me to the following concepts `Automation Tools` `Configuration Management` `CI/CD` 
 pipeline. I learned how to use and work with `puppet`, which is one of the most popular IT Automation and 
-Configuration Management Tools to provision New servers into the web stack.
+Configuration Management Tools to provision new servers into web stacks.
 
 ## Installing Puppet
 

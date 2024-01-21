@@ -29,6 +29,8 @@ sylvain@ubuntu$ ./example.rb 127.0.0.a
 
 **0. Simply matching School**
 
+[image1](https://docs.google.com/document/d/127c694vKYd4uvkQLWOBGmE_a3CunySNMbcReaky3XcQ/edit?usp=sharing)
+
 Requirements:
 
 * The regular expression must match `School`
@@ -52,7 +54,7 @@ $
 
 **1. Repetition Token #0**
 
-[image2](http)
+[image2](https://docs.google.com/document/d/127c694vKYd4uvkQLWOBGmE_a3CunySNMbcReaky3XcQ/edit?usp=sharing)
 
 Requirements:
 
@@ -64,7 +66,7 @@ expression matching method
 
 **2. Repetition Token #1**
 
-[image3](http)
+[image3](https://docs.google.com/document/d/127c694vKYd4uvkQLWOBGmE_a3CunySNMbcReaky3XcQ/edit?usp=sharing)
 
 Requirements:
 
@@ -76,7 +78,7 @@ expression matching method
 
 **3. Repetition Token #2**
 
-[image4](http)
+[image4](https://docs.google.com/document/d/127c694vKYd4uvkQLWOBGmE_a3CunySNMbcReaky3XcQ/edit?usp=sharing)
 
 Requirements:
 
@@ -88,7 +90,7 @@ expression matching method
 
 **4. Repetition Token #3**
 
-[image5](http)
+[image5](https://docs.google.com/document/d/127c694vKYd4uvkQLWOBGmE_a3CunySNMbcReaky3XcQ/edit?usp=sharing)
 
 Requirements:
 

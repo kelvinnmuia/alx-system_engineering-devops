@@ -5,7 +5,7 @@
 In this project, I learned about commands for managing permissions in shell, 
 such as `chmod` for changing file permissions, `chgrp` used for changing group 
 permissions, as well as `sudo`, `su` which manages user access permissions. 
-I learned other permission management commands such as `id`, `groups`, `whoami`, 
+I also learned other permission management commands such as `id`, `groups`, `whoami`, 
 `adduser`, `useradd`, `addgroup`.
 
 ## Project Tasks :page_with_curl:

@@ -908,6 +908,7 @@ url Requested path
 response    HTTP response code
 bytes   Number of bytes in the reply
 ```
+
 Here is an example with one day of logs of the NASA website (1995).
 
 ```
@@ -946,9 +947,8 @@ seigate.sumiden.co.jp
 ircgate1.rcc-irc.si
 s150.phxslip4.indirect.com
 torben.dou.dk
-julien@ubuntu:/tmp/0x02$ 
+julien@ubuntu:/tmp/0x02$
 ```
-
   * [103-the_biggest_fan](./103-the_biggest_fan): Bash script that parses web servers logs in TSV format as input and displays the 11 hosts or 
 IP addresses which did the most requests.
 

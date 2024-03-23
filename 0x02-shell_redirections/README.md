@@ -3,7 +3,7 @@
 
 In this project, I learned about shell commands for performing Input/Output Redirections 
 and filtering output. This commands include but not limited to: `head`, `tail`, `find`, 
-`wc`, `sort`, `uniq`, `grep` and `tr`
+`wc`, `sort`, `uniq`, `grep`, `rev`, `echo`, `cat` and `tr`
 
 ## Project Tasks :page_with_curl:
 
@@ -951,3 +951,10 @@ julien@ubuntu:/tmp/0x02$
 
   * [103-the_biggest_fan](./103-the_biggest_fan): Bash script that parses web servers logs in TSV format as input and displays the 11 hosts or 
 IP addresses which did the most requests.
+
+## 0x02. Shell, I/O Redirections and filters Quizes
+  * [0x02. Shell, I/O Redirections and filters Quizes](https://drive.google.com/file/d/1NrwcFm1pfyFxGyrqHdWrVUVH8SoqitOw/view?usp=sharing)
+
+## Additional Project Resources
+  * [Shell, I/O Redirection](https://linuxcommand.org/lc3_lts0070.php)
+  * [Special Characters](https://mywiki.wooledge.org/BashGuide/SpecialCharacters)

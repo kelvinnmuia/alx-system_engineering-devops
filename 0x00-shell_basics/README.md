@@ -408,3 +408,20 @@ ubuntu@ip-172-31-63-244:/tmp/magic$
 
   * [school.mgc](./school.mgc): Create a magic file school.mgc that can be used with the command file to detect School data 
 files. School data files always contain the string SCHOOL at offset 0.
+
+
+## 0x00. Shell, basics Quizes
+  * [0x00. Shell, basics Quizes](https://drive.google.com/file/d/18tYmuO7JANAmK9rex5GOFZFKdQCxfu7D/view?usp=sharing)
+
+## Additional Project Resources
+  * [What Is “The Shell”?](https://linuxcommand.org/lc3_lts0010.php)
+  * [Navigation](https://linuxcommand.org/lc3_lts0020.php)
+  * [Looking Around](http://linuxcommand.org/lc3_lts0030.php)
+  * [A Guided Tour](http://linuxcommand.org/lc3_lts0040.php)
+  * [Manipulating Files](http://linuxcommand.org/lc3_lts0050.php)
+  * [Working with Commands](http://linuxcommand.org/lc3_lts0060.php)
+  * [Reading Man pages](http://linuxcommand.org/lc3_man_pages/man1.html)
+  * [Keyboard shortcuts for Bash](https://www.howtogeek.com/181/keyboard-shortcuts-for-bash-command-shell-for-ubuntu-debian-suse-redhat-linux-etc/)
+  * [LTS](https://wiki.ubuntu.com/LTS)
+  * [Shebang](https://en.wikipedia.org/wiki/Shebang_%28Unix%29)
+

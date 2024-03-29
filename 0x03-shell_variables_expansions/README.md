@@ -6,7 +6,7 @@ In this project, I learned about `shell expansion`, `shell initialization files`
 
 ## Project Tasks :page_with_curl:
 
-**0. <o>**
+**0.<o>**
 
 Create a script that creates an alias.
 

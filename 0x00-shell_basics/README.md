@@ -1,4 +1,5 @@
 # 0x00. Shell, basics
+## The Domains/Concepts covered in this project: `DevOps`  `Shell`  `Bash`
 
 In this project, I learned about the basic shell commands including: 
 **Shell Navigation Commands**, such as `cd`, `pwd`, `ls` `less`for navigating 

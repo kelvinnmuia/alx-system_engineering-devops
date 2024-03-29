@@ -391,3 +391,16 @@ julien@production-503e7013:~$
 ```
 
   * [103-water_and_stir](./103-water_and_stir): Bash script that adds the two numbers stored in the environment variables `WATER` and `STIR` and prints the result.
+
+## 0x00. Shell, basics Quizes
+  * [0x00. Shell, basics Quizes](https://drive.google.com/file/d/1YfuDf6QPqRhv1fxxeBVNj2rWq_-8orzO/view?usp=sharing)
+
+## Additional Project Resources
+  * [Expansions](http://linuxcommand.org/lc3_lts0080.php)
+  * [Shell Arithmetic](https://www.gnu.org/software/bash/manual/html_node/Shell-Arithmetic.html)
+  * [Variables](https://tldp.org/LDP/Bash-Beginners-Guide/html/sect_03_02.html)
+  * [Shell initialization files](https://tldp.org/LDP/Bash-Beginners-Guide/html/sect_03_01.html)
+  * [The alias Command](https://www.linfo.org/alias.html)
+  * [Technical Writing](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/misc/2021/6/9112669886fd446a2aa3113c31319d1f468dc160.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20240329%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240329T191105Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=abe88e86fd6622d9d1f016b1337e8dba9670d1a222d2702c174df35e2237c345)
+
+

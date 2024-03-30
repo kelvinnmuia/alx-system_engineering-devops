@@ -1,5 +1,5 @@
 # 0x04. Loops, conditions and parsing
-## ## The Domains/Concepts covered in this project: `DevOps`  `Shell`  `Bash` `Scripting`
+## The Domains/Concepts covered in this project: `DevOps`  `Shell`  `Bash` `Scripting`
 
 In this project, I learned about creating simple shell scripts using loop statements, such as `for`, `while`, `until`. I  also learned 
 to use conditional statements e.g `if` and comparison operators in shell scripts, as well as `Shellcheck tool` to create better 

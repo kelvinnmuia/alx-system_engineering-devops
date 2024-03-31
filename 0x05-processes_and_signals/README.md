@@ -500,3 +500,9 @@ In Terminal #0, I start by compiling `102-zombie.c` and executing `zombie` which
 list of processes and look for lines containing `Z+.*<defunct>` which catches zombie process.
 
   * [102-zombie.c](./102-zombie.c): C program that creates 5 zombie processes.
+
+## Additional Project Resources
+  * [Linux PID](https://www.linfo.org/pid.html)
+  * [Linux process](https://www.thegeekstuff.com/2012/03/linux-processes-environment/)
+  * [Linux signal](https://www.educative.io/answers/what-are-linux-signals)
+  * [Process management in linux](https://www.digitalocean.com/community/tutorials/process-management-in-linux)

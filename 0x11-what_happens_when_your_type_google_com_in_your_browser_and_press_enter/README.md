@@ -56,7 +56,7 @@ Gliffy is free and what I personally use, but feel free to use what fits you bes
 
 Some unrelated examples:
 
-[!alt](./alx-example.png)
+![alt](./alx-example.png)
 
 Share the URL of your diagram image in your answer file and il the field below.
 

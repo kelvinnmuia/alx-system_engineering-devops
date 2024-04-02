@@ -65,7 +65,7 @@ Please, remember that these blogs must be written in English to further your tec
   * [1-what_happen_when_diagram](./1-what_happen_when_diagram): answer file for the url of a diagram illustrating the 
 flow of the request created when you type https://www.google.com in your browser and press Enter.
 
-![alt text](./What Happens When.jpg)
+![alt text](./What-Happens-When.jpg)
 
 **2. Contribute!**
 

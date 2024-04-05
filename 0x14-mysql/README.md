@@ -4,6 +4,8 @@
 The project introduced me to database replication in mysql databases, as well as creating mysql dump. First of all I installed mysql databases in two mysql servers namely 
 `web-01` and `web-02` provided by alx then created a database and a table. Lastly, I configured replication on the two mysql servers.
 
+## Tasks :page_with_curl:
+
 **0. Install MySQL**
 
 First things first, let’s get MySQL installed on both your web-01 and web-02 servers.

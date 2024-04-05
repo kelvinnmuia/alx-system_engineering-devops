@@ -1,6 +1,9 @@
 # 0x14. MySQL
 ## ## The Domains/Concepts covered in this project: `DevOps` `SysAdmin` `MySQL`
 
+The project introduced me to database replication in mysql databases, as well as creating mysql dump. First of all I installed mysql databases in two mysql servers namely 
+`web-01` and `web-02` provided by alx then created a database and a table. Lastly, I configured replication on the two mysql servers.
+
 **0. Install MySQL**
 
 First things first, let’s get MySQL installed on both your web-01 and web-02 servers.
@@ -281,4 +284,9 @@ ubuntu@03-web-01:~$
 ```
 
   * [5-mysql_backup](./5-mysql_backup)
+
+## Additional Project Resources
+* [What is a primary-replica cluster](https://www.digitalocean.com/community/tutorials/how-to-choose-a-redundancy-plan-to-ensure-high-availability#sql-replication)
+* [MySQL primary replica setup](https://www.digitalocean.com/community/tutorials/how-to-set-up-replication-in-mysql)
+* [Build a robust database backup strategy](https://www.databasejournal.com/ms-sql/developing-a-sql-server-backup-strategy/)
 

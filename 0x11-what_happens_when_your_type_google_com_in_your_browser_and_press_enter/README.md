@@ -56,7 +56,7 @@ Gliffy is free and what I personally use, but feel free to use what fits you bes
 
 Some unrelated examples:
 
-[!alt](https://drive.google.com/file/d/1G5JyLXavFdn0A1ar9FaCj0vbto8-3Ow1/view?usp=drive_link)
+![alt text](./alx-example.png)
 
 Share the URL of your diagram image in your answer file and il the field below.
 
@@ -64,6 +64,8 @@ Please, remember that these blogs must be written in English to further your tec
 
   * [1-what_happen_when_diagram](./1-what_happen_when_diagram): answer file for the url of a diagram illustrating the 
 flow of the request created when you type https://www.google.com in your browser and press Enter.
+
+![alt text](./What-Happens-When.jpg)
 
 **2. Contribute!**
 

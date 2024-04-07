@@ -2,7 +2,7 @@
 ## ## The Domains/Concepts covered in this project: `Python` `Scripting` `Back-end` `API`
 
 The project introduced me to Application Programming Interface (API's), which is a set of routines, protocols and tools for 
-building software and determines how various software components interact with each other. In this project i delve deeper into 
+building software and determines how various software components interact with each other. In this project I delved deeper into 
 advanced API concepts. At the end of the project I created python scripts to query the reddit API to obtain data from the reddit servers.
 
 **Background Context**

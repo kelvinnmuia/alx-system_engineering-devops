@@ -1,5 +1,5 @@
 # 0x15. API
-## ## The Domains/Concepts covered in this project: `Python` `Scripting` `Back-end` `API`
+## The Domains/Concepts covered in this project: `Python` `Scripting` `Back-end` `API`
 
 The project introduced me to Application Programming Interface (API's), which is a set of routines, protocols and tools for 
 building software and determines how various software components interact with each other. In this project I delved deeper into 

@@ -357,3 +357,12 @@ In this example, you can see that my Bash script tells the master Gunicorn renew
 For testing it, please use the command $ sudo reboot to reboot your server (not shutdown!!)
 
   * [4-reload_gunicorn_no_downtime](./4-reload_gunicorn_no_downtime): bash script that reloads Gunicorn in a graceful way.
+
+## Additional Project Resources
+
+  * [Application server vs web server](https://www.nginx.com/resources/glossary/application-server-vs-web-server/)
+  * [How to Serve a Flask Application with Gunicorn and Nginx on Ubuntu 16.04](https://www.digitalocean.com/community/tutorials/how-to-serve-flask-applications-with-gunicorn-and-nginx-on-ubuntu-16-04)
+  * [Running Gunicorn](https://docs.gunicorn.org/en/latest/run.html)
+  * [Be careful with the way Flask manages slash](https://werkzeug.palletsprojects.com/en/3.0.x/)
+  * [route](https://flask.palletsprojects.com/en/3.0.x/api/#flask.Blueprint.route)
+  * [Upstart documentation](https://doc.ubuntu-fr.org/upstart)

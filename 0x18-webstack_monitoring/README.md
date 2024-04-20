@@ -1,8 +1,9 @@
 # 0x18. Webstack monitoring
 ## The Domains/Concepts covered in this project: `DevOps` `SysAdmin` `monitoring`
 
-In this project I learned how to create puppet scripts to automate the processes of web stack debugging. At the end of the project 
-I created a puppet script to fix the 500 error on the web server.
+In this project I learned how to configure web application monitoring agents. At the end of the project 
+I created a datadog account and configured datadog agent on the webserver to monitor the airbnb 
+clone web application.
 
 ![alt text](./monitoring.png)
 

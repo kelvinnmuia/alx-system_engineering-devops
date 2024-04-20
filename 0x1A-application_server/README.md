@@ -275,7 +275,7 @@ Requirements:
 
 After loading, the website looks like this:
 
-![alt text](./airbnb-clone-image.jpg)
+![alt text](./airbnb-clone-image.png)
 
   * [5-app_server-nginx_config](./5-app_server-nginx_config): Nginx config file.
 

@@ -1,9 +1,8 @@
 # 0x19. Postmortem
 ## The Domains/Concepts covered in this project: `DevOps` `SysAdmin`
 
-The project introduced me to the following concepts `Automation Tools` `Configuration Management` `CI/CD` 
-pipeline. I learned how to use and work with `puppet`, which is one of the most popular IT Automation and 
-Configuration Management Tools to provision new servers into web stack
+The project introduced me to creating postmortem documment. At the end of the project I created a postmortem documment for 
+a web stack outage incident that described in detail the root cause of the incident. 
 
 **Background Context**
 

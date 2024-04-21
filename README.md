@@ -37,6 +37,17 @@ The projects contained within this repository are structured to progressively bu
   * [0x07. Networking basics #0](./0x07-networking_basics)
   * [0x08. Networking basics #1](./0x08-networking_basics_2)
 
+**3. System engineering & DevOps - Web stack**
+
+  * [0x09. Web infrastructure design](./0x09-web_infrastructure_design)
+  * [0x0C. Web server](./0x0C-web_server)
+  * [0x0F. Load balancer](./0x0F-load_balancer)
+  * [0x10. HTTPS SSL](./0x10-https_ssl)
+  * [ 0x11. What happens when you type google.com in your browser and press Enter](./0x11-what_happens_when_your_type_google_com_in_your_browser_and_press_enter)
+  * [0x14. MySQL](./0x14-mysql)
+  * [0x18. Webstack monitoring](./0x18-webstack_monitoring)
+  * [0x1A. Application server](./0x1A-application_server) 
+
 Each project within this repository was an integral part of the ALX curriculum, designed to challenge and expand my technical acumen. 
 Through these projects, I have fortified my skillsets in software engineering, gaining proficiency in critical areas that are essential 
 for tackling real-world problems in the tech industry.

@@ -56,9 +56,7 @@ Gliffy is free and what I personally use, but feel free to use what fits you bes
 
 Some unrelated examples:
 
-![alt text](https://drive.google.com/file/d/1G5JyLXavFdn0A1ar9FaCj0vbto8-3Ow1/view?usp=drive_link)
-
-![alt text](https://drive.google.com/file/d/1G5JyLXavFdn0A1ar9FaCj0vbto8-3Ow1/view?usp=drive_link)
+![alt text](./What-Happens-When.jpg)
 
 Share the URL of your diagram image in your answer file and il the field below.
 

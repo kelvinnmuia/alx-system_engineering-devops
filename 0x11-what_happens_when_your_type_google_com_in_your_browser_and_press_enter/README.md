@@ -1,7 +1,7 @@
 # 0x11. What happens when you type google.com in your browser and press Enter
 ## The Domains/Concepts covered in this project: `DevOps` `Network` `SysAdmin`
 
-In this project i wrote a blog post that covers the major components of the web infrastructure, such as 
+In this project I wrote a blog post that covers the major components of the web infrastructure, such as 
 `DNS`, `TCP/IP`, `Firewall`, `HTTPS/SSL`, `Load-balancer`, `Web server`, `Application server`, `Database`.
 
 ## Tasks :page_with_curl:
@@ -56,7 +56,7 @@ Gliffy is free and what I personally use, but feel free to use what fits you bes
 
 Some unrelated examples:
 
-[!alt](https://drive.google.com/file/d/1G5JyLXavFdn0A1ar9FaCj0vbto8-3Ow1/view?usp=drive_link)
+![alt](https://drive.google.com/file/d/1G5JyLXavFdn0A1ar9FaCj0vbto8-3Ow1/view?usp=drive_link)
 
 Share the URL of your diagram image in your answer file and il the field below.
 

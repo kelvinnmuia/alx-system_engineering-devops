@@ -1,8 +1,7 @@
 # 0x1B. Web stack debugging #4
 ## The Domains/Concepts covered in this project: `DevOps` `SysAdmin` `Scripting`  `Debugging`
 
-In this project I learned how to configure an application server. At the end of the project 
-I configured the application server to serve the dynamic content in my Airbnb clone web application.
+In this project I learned how to create automated scripts in puppet for the web server load testing. At the end of the project I created puppet scripts to increase the traffic limit on the web server, as well as enable the `Holberton` user open files without any error.
 
 ## Tasks :page_with_curl:
 

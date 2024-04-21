@@ -61,6 +61,14 @@ The projects contained within this repository are structured to progressively bu
 
   * [0x0A. Configuration management](./0x0A-configuration_management) 
 
+**7. System engineering & DevOps - Web stack debugging**
+
+  * [0x0D. Web stack debugging #0](./0x0D-web_stack_debugging_0)
+  * [0x0E. Web stack debugging #1](./0x0E-web_stack_debugging_1)
+  * [0x12. Web stack debugging #2](./0x12-web_stack_debugging_2)
+  * [0x17. Web stack debugging #3](./0x17-web_stack_debugging_3)
+  * [0x1B. Web stack debugging #4](./0x1B-web_stack_debugging_4)
+
 Each project within this repository was an integral part of the ALX curriculum, designed to challenge and expand my technical acumen. 
 Through these projects, I have fortified my skillsets in software engineering, gaining proficiency in critical areas that are essential 
 for tackling real-world problems in the tech industry.

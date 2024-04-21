@@ -46,7 +46,12 @@ The projects contained within this repository are structured to progressively bu
   * [ 0x11. What happens when you type google.com in your browser and press Enter](./0x11-what_happens_when_your_type_google_com_in_your_browser_and_press_enter)
   * [0x14. MySQL](./0x14-mysql)
   * [0x18. Webstack monitoring](./0x18-webstack_monitoring)
-  * [0x1A. Application server](./0x1A-application_server) 
+  * [0x1A. Application server](./0x1A-application_server)
+
+**4. System engineering & DevOps - Security**
+
+  * [0x0B. SSH](./0x0B-ssh)
+  * [0x13. Firewall](./0x13-firewall) 
 
 Each project within this repository was an integral part of the ALX curriculum, designed to challenge and expand my technical acumen. 
 Through these projects, I have fortified my skillsets in software engineering, gaining proficiency in critical areas that are essential 

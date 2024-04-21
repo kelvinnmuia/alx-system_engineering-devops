@@ -58,6 +58,8 @@ Some unrelated examples:
 
 ![alt text](https://drive.google.com/file/d/1G5JyLXavFdn0A1ar9FaCj0vbto8-3Ow1/view?usp=drive_link)
 
+![alt text](https://drive.google.com/file/d/1G5JyLXavFdn0A1ar9FaCj0vbto8-3Ow1/view?usp=drive_link)
+
 Share the URL of your diagram image in your answer file and il the field below.
 
 Please, remember that these blogs must be written in English to further your technical ability in a variety of settings.

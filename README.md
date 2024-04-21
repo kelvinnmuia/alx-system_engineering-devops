@@ -18,8 +18,13 @@ a variety of practical tasks and assignments that I have meticulously completed,
 The projects contained within this repository are structured to progressively build expertise in the following areas:
 
 **0. System engineering & DevOps - Bash**
+
   * [0x00. Shell, basics](./0x00-shell_basics)
-  * [ 0x01. Shell, permissions](./0x01-shell_permissions)
+  * [0x01. Shell, permissions](./0x01-shell_permissions)
+  * [0x02. Shell, I/O Redirections and filters](./0x02-shell_redirections)
+  * [0x03. Shell, init files, variables and expansions](./0x03-shell_variables_expansions)
+  * [0x04. Loops, conditions and parsing](./0x04-loops_conditions_and_parsing)
+  * [0x05. Processes and signals](./0x05-processes_and_signals) 
 
 Each project within this repository was an integral part of the ALX curriculum, designed to challenge and expand my technical acumen. 
 Through these projects, I have fortified my skillsets in software engineering, gaining proficiency in critical areas that are essential 
@@ -32,5 +37,5 @@ for tackling real-world problems in the tech industry.
 - **Practical Application**: Implementing theoretical knowledge into tangible projects has solidified my command over essential software 
 engineering principles.
 
-I am proud to showcase the culmination of my dedication and the knowledge I've acquired through the ALX Software Engineering Program. Feel free 
-to explore the projects and witness my growth as a software engineer.
+I am glad to showcase the culmination of my dedication and the knowledge I've acquired through the ALX Software Engineering Program. Feel free 
+to explore the projects contained in this repository.

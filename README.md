@@ -51,7 +51,15 @@ The projects contained within this repository are structured to progressively bu
 **4. System engineering & DevOps - Security**
 
   * [0x0B. SSH](./0x0B-ssh)
-  * [0x13. Firewall](./0x13-firewall) 
+  * [0x13. Firewall](./0x13-firewall)
+
+**5. System engineering & DevOps - On call**
+
+  * [0x19. Postmortem](./0x19-postmortem)
+
+**6. System engineering & DevOps - CI/CD**
+
+  * [0x0A. Configuration management](./0x0A-configuration_management) 
 
 Each project within this repository was an integral part of the ALX curriculum, designed to challenge and expand my technical acumen. 
 Through these projects, I have fortified my skillsets in software engineering, gaining proficiency in critical areas that are essential 

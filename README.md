@@ -13,10 +13,9 @@ a variety of practical tasks and assignments that I have meticulously completed,
   * **Web Stack**: Developing full-stack web applications with a focus on both front-end and back-end technologies.
   * **Web Stack Debugging**: Troubleshooting and resolving complex issues within web application stacks.
 
-## Projects
-The projects contained within this repository are structured to progressively build expertise in the following areas:
+## Projects :page_with_curl:
 
-## Tasks :page_with_curl:
+The projects contained within this repository are structured to progressively build expertise in the following areas:
 
 **0. System engineering & DevOps - Bash**
   * [0x00. Shell, basics](./0x00-shell_basics)

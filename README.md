@@ -32,6 +32,11 @@ The projects contained within this repository are structured to progressively bu
   * [0x15. API ](./0x15-api)
   * [0x16. API advanced](./0x16-api_advanced)   
 
+**2. System engineering & DevOps - Networking**
+
+  * [0x07. Networking basics #0](./0x07-networking_basics)
+  * [0x08. Networking basics #1](./0x08-networking_basics_2)
+
 Each project within this repository was an integral part of the ALX curriculum, designed to challenge and expand my technical acumen. 
 Through these projects, I have fortified my skillsets in software engineering, gaining proficiency in critical areas that are essential 
 for tackling real-world problems in the tech industry.
